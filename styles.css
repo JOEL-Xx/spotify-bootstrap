@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    overflow-x: hidden;
+}
+
+input{
+    border-style:none ;
+    border-radius:15px;
+    height: 2rem;
+    width: 15rem;
+}
+
+input:focus{
+    outline:none;
+}
+.perfil{
+    border-radius:50% ;
+}
