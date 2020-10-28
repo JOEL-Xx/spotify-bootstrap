@@ -7,8 +7,7 @@
 input{
     border-style:none ;
     border-radius:15px;
-    height: 2rem;
-    width: 15rem;
+    height:2rem;
 }
 
 input:focus{
@@ -16,4 +15,7 @@ input:focus{
 }
 .perfil{
     border-radius:50% ;
+}
+label{
+    overflow-y: hidden;
 }
